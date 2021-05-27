@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauthierBct
-- 👀 I’m interested in C, C++, Python, and all new language :)
+- 👀 I’m interested in C, C++, Python, and all new language 😄
 - 🌱 I’m currently learning Electronics and computing sciences for embedded systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
